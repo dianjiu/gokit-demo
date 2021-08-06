@@ -7,5 +7,5 @@ import (
 
 func main() {
 	hi := hello.SayHello()
-	log.Printf("SayHello Result: %v\n", hi)
+	log.Printf("hello.SayHello() Result: %v\n", hi)
 }
